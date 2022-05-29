@@ -39,7 +39,6 @@ covariance of the variables divided by the product of their standard deviations.
 - React , redux , python , flask , javascript , firebase 
 - 2 API are used
 - TMDB API and
-- 
 ## Made my own Flask API - I made an API to get the recommendations from the model by providing the user ID and then fetched it in react app to display it.
 
 
