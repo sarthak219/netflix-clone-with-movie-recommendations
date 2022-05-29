@@ -32,7 +32,10 @@ covariance of the variables divided by the product of their standard deviations.
 - pip3 install requests
 - run python3 app.py (install dependencies in case of error)
 - the flask server must be running on localhost port 8000
-- then open a new terminal tab into the root directory and run npm run start
+- then open a new terminal 
+- tab into the root directory 
+- run npm install then
+- run npm run start
 - this will launch a react app on localhost port 3000
 
 ## Tech Stacks Used
