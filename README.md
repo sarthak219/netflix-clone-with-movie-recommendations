@@ -1,5 +1,5 @@
 
-# Movie-Recommendation-System Engage 2022
+# Netflix Clone with Movie Recommendation System
 
 1. 🎬 Developed user-based movie recommendation system by implementing user-user collaborative filtering.
 
@@ -26,26 +26,25 @@ covariance of the variables divided by the product of their standard deviations.
 
 
 ## Setup instructions (how to launch the app)
-- first open terminal
+- Open terminal (or any other command line tool) in the project directory.
 - cd backend
 - pip3 install flask_cors
 - pip3 install requests
-- run python3 app.py (install dependencies in case of error)
-- the flask server must be running on localhost port 8000
-- then open a new terminal 
-- tab into the root directory 
-- run npm install then
-- run npm run start
-- this will launch a react app on localhost port 3000
+- Execute python3 app.py (install dependencies in case of error)
+- The flask server must be running on localhost port 8000
+- Then open a new terminal tab into the root directory and install node modules
+    using npm i
+- Execute npm run start to launch the app on localhost:3000.
 
 ## Tech Stacks Used
 - React , redux , python , flask , javascript , firebase 
-- 2 API are used
+- 2 APIs are used
 - TMDB API and
+
 ## Made my own Flask API - I made an API to get the recommendations from the model by providing the user ID and then fetched it in react app to display it.
 
 
-## Features
+# Features
 
 ## Recommendation
 
